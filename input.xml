@@ -1,0 +1,9 @@
+<root>
+    <dict>
+        <entry key="name">Alice</entry>
+        <entry key="age">30</entry>
+    </dict>
+    <const name="PI">3.14</const>
+    <expr>+ 1 2</expr>
+</root>
+

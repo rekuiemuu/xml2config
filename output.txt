@@ -1,0 +1,6 @@
+{
+  name = Alice
+  age = 30
+}
+PI is 3.14
+@[+ 1 2]
